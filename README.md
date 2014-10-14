@@ -1,4 +1,4 @@
-SpotifySync
+SpotifySync (kinda)
 ===========
 
 Builds and sends a Spotify URL of the current track in Spotify for Mac to your iOS device  (through Apple's Messages app). It's intended purpose is to let you pick up where you left off in Spotify when switching from your Mac to your iOS device.
