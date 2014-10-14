@@ -8,4 +8,4 @@ Before you run this script you will need:
 - The latest version of Spotify for Mac installed;
 - Messages set up with an iCloud account on both your Mac and iOS device;
 - To start a conversation with your own mobile number or iCloud email from Messages on your Mac;
-- In the code below replace [Your Phone Number Here] with your mobile number or iCloud email associated with your iOS device.
+- To replace [Your Phone Number Here] on line 34 with your mobile number or iCloud email associated with your iOS device.
